@@ -1,0 +1,1 @@
+These images, sourced from Google, serve to validate the CNN model, showcasing its functionality, consistency, and accuracy.
