@@ -1,4 +1,4 @@
-Convolutional Neural Networks (CNNs) for Pneumonia Detection
+How to use Convolutional Neural Networks (CNNs) for Pneumonia Detection!
 
 Introduction:
 
