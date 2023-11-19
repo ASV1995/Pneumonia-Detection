@@ -19,8 +19,8 @@ Getting Started:
 
 Usage:
 
-- Adjust hyperparameters, model architecture, or preprocessing steps in model_training.ipynb.
-- Explore the evaluation process in model_evaluation.ipynb.
+- Adjust hyperparameters, model architecture, or preprocessing steps in CNN For Beginners.ipynb!
+- Explore the evaluation process in CNN For Beginners.ipynb!
 - Adapt the code to your dataset or use the provided pneumonia dataset.
 
 Contribution Guidelines
