@@ -29,9 +29,6 @@ Contribution Guidelines
 - Submitting feature requests
 - Opening pull requests
 
-Credits
-Amir Vasseghi - Project Lead
-
 Acknowledgments:
 
 - Inspired by the need to simplify the creation of efficient diagnostic detection models in medical imaging, this project aims to provide a straightforward guide for effective pneumonia detection. The goal is to contribute to early symptom detection, potentially saving lives through timely intervention.
