@@ -8,7 +8,7 @@ Features:
 
 - CNN Architecture: Explore the implemented Convolutional Neural Network tailored for pneumonia detection.
 - Data Preprocessing: Utilize TensorFlow and OpenCV for loading, preprocessing, and augmenting image data.
-- Training: Train the model using a dataset organized with the ImageDataGenerator, flow_from_directory, and user: thomasdubail.
+- Training: Train the model using a dataset organized with the ImageDataGenerator, flow_from_directory, and Kaggle user: thomasdubail.
 - Evaluation: Assess the model's performance on never trained test data and visualize the results.
 
 Getting Started:
